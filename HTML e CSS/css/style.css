@@ -1,0 +1,15 @@
+@import url("./index.css");
+@import url("./about.css");
+@import url("./curriculum.css");
+
+/* Definindo Variáveis CSS*/
+
+:root {
+    --fonte-principal: 'Krona One', sans-serif;
+    --fonte-texto: 'Montserrat', sans-serif;
+    --preto: #0B2447;
+    --branco: #F6F6F6;
+    --azul-claro: #A5D7E8;
+    --preto-hover: #19376D;
+}
+
